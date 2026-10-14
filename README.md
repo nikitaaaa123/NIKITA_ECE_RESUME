@@ -1,2 +1,1 @@
-#NIKITA_ECE_RESUME
 
